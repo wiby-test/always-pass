@@ -10,5 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/wiby-test/pass.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "wiby": "*"
+  }
 }
